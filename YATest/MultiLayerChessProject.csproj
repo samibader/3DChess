@@ -1,0 +1,245 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <ProjectGuid>{6B079D06-2E14-43B8-B3DC-2840CD97E285}</ProjectGuid>
+    <ProjectTypeGuids>{6D335F3A-9D43-41b4-9D22-F6F17C4BE596};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>YATest</RootNamespace>
+    <AssemblyName>YATest</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <XnaFrameworkVersion>v3.1</XnaFrameworkVersion>
+    <XnaPlatform>Windows</XnaPlatform>
+    <XnaCrossPlatformGroupID>882fdc2a-f51b-4e43-8146-4b7788abf52b</XnaCrossPlatformGroupID>
+    <ApplicationIcon>Utilities\Game.ico</ApplicationIcon>
+    <Thumbnail>Utilities\GameThumbnail.png</Thumbnail>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\x86\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;WINDOWS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <PlatformTarget>x86</PlatformTarget>
+    <XnaCompressContent>false</XnaCompressContent>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\x86\Release</OutputPath>
+    <DefineConstants>TRACE;WINDOWS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <PlatformTarget>x86</PlatformTarget>
+    <XnaCompressContent>true</XnaCompressContent>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Xna.Framework, Version=3.1.0.0, Culture=neutral, PublicKeyToken=6d5c3888ef60e27d, processorArchitecture=x86">
+      <Private>False</Private>
+      <SpecificVersion>True</SpecificVersion>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.Game, Version=3.1.0.0, Culture=neutral, PublicKeyToken=6d5c3888ef60e27d, processorArchitecture=MSIL">
+      <Private>False</Private>
+      <SpecificVersion>True</SpecificVersion>
+    </Reference>
+    <Reference Include="mscorlib">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="GameEngine\CompoundGameComponent.cs" />
+    <Compile Include="GameEngine\Scene\ActionScene\Components\ChessboardTexture\AbstractBorderTexture.cs" />
+    <Compile Include="GameEngine\Scene\ActionScene\Components\ChessboardTexture\AbstractBorderTextureFactory.cs" />
+    <Compile Include="GameEngine\Scene\ActionScene\Components\ChessboardTexture\MainborderTexture\MainBorderTexture.cs" />
+    <Compile Include="GameEngine\Scene\ActionScene\Components\ChessboardTexture\MainborderTexture\MainBorderTextureFactory.cs" />
+    <Compile Include="GameEngine\Scene\ActionScene\Components\Chessboard\ChessboardFactory\BasicChessboardFactory\BasicChessboardFactory.cs" />
+    <Compile Include="GameEngine\Scene\ActionScene\Components\Chessboard\Chessboard.cs" />
+    <Compile Include="GameEngine\Scene\ActionScene\Components\Chessboard\ChessboardFactory\ChessboardFactory.cs" />
+    <Compile Include="GameEngine\Scene\ActionScene\Components\ChessModel\BasicChessModel\BasicChessModel.cs" />
+    <Compile Include="GameEngine\Scene\ActionScene\Components\ChessModel\BasicChessModel\BasicChessModelFactory.cs" />
+    <Compile Include="GameEngine\Scene\ActionScene\Components\ChessModel\BasicChessModel\BasicModelProvider.cs" />
+    <Compile Include="GameEngine\Scene\ActionScene\Components\ChessModel\ModelProvider.cs" />
+    <Compile Include="GameEngine\Scene\ActionScene\Components\ChessModel\ChessModel.cs" />
+    <Compile Include="GameEngine\Scene\AbstractGameScene.cs" />
+    <Compile Include="GameEngine\Scene\ActionScene\ActionScene.cs" />
+    <Compile Include="GameEngine\Scene\ActionScene\Components\Checker\Checker.cs" />
+    <Compile Include="GameEngine\Scene\ActionScene\Components\Checker\CheckerFactory.cs" />
+    <Compile Include="GameEngine\Scene\ActionScene\Components\Checker\TriangleChecker\TriangleChecker.cs" />
+    <Compile Include="GameEngine\Scene\ActionScene\Components\Checker\TriangleChecker\TriangleCheckerFactory.cs" />
+    <Compile Include="GameEngine\Scene\ActionScene\Components\ChessModel\ChessModelFactory.cs" />
+    <Compile Include="GameEngine\Scene\ActionScene\Components\Panels\Panel2D\Panel2D.cs" />
+    <Compile Include="GameEngine\Scene\ActionScene\Components\Panels\PanelDynamic\PanelDynamic.cs" />
+    <Compile Include="GameEngine\Scene\ActionScene\Components\Panels\PanelExit\PanelExit.cs" />
+    <Compile Include="GameEngine\Scene\ActionScene\Components\Panels\PanelFinish\PanelFinish.cs" />
+    <Compile Include="GameEngine\Scene\ActionScene\Components\Panels\PanelHistory\PanelHistory.cs" />
+    <Compile Include="GameEngine\Scene\ActionScene\Components\Panels\PanelPause\PanelPause.cs" />
+    <Compile Include="GameEngine\Scene\ActionScene\Components\Panels\PanelTime\PanelTime.cs" />
+    <Compile Include="GameEngine\Scene\MainMenuScene\MainMenuScene.cs" />
+    <Compile Include="GameEngine\Scene\MainMenuScene\PlayerNamePanel.cs" />
+    <Compile Include="GameEngine\Scene\MainMenuScene\SettingsMenuRoot.cs" />
+    <Compile Include="GameEngine\Scene\MainMenuScene\TimerPanelNothing.cs" />
+    <Compile Include="GameEngine\Scene\MainMenuScene\TimerPanelOneSubPanel.cs" />
+    <Compile Include="GameEngine\Scene\MainMenuScene\TimerPanelTwoSubPanels.cs" />
+    <Compile Include="GameEngine\Scene\MainMenuScene\TimersPanel.cs" />
+    <Compile Include="GameEngine\Scene\MainMenuScene\ToggleMenuPanel.cs" />
+    <Compile Include="GameEngine\Scene\MainMenuScene\YesNoPanel.cs" />
+    <Compile Include="GameLogic\History\PawnHistoryPhase.cs" />
+    <Compile Include="GameLogic\PiecesMoves\AbstractMove.cs" />
+    <Compile Include="GameLogic\Pieces\AbstractPiece.cs" />
+    <Compile Include="Utilities\AbstractPlayer.cs" />
+    <Compile Include="GameLogic\Pieces\Bishop.cs" />
+    <Compile Include="GameLogic\PiecesMoves\BishopMoves.cs" />
+    <Compile Include="GameLogic\Chessboard\Chessboard.cs" />
+    <Compile Include="GameLogic\Chessboard\ChessboardBuilder.cs" />
+    <Compile Include="GameLogic\History\History.cs" />
+    <Compile Include="GameLogic\History\HistoryPhase.cs" />
+    <Compile Include="GameLogic\Pieces\King.cs" />
+    <Compile Include="GameLogic\PiecesMoves\KingMoves.cs" />
+    <Compile Include="GameLogic\Pieces\Knight.cs" />
+    <Compile Include="GameLogic\PiecesMoves\KnightMoves.cs" />
+    <Compile Include="GameLogic\Pieces\Pawn.cs" />
+    <Compile Include="GameLogic\PiecesMoves\PawnMoves.cs" />
+    <Compile Include="GameLogic\Pieces\Queen.cs" />
+    <Compile Include="GameLogic\PiecesMoves\QueenMoves.cs" />
+    <Compile Include="GameLogic\Pieces\Rook.cs" />
+    <Compile Include="GameLogic\PiecesMoves\RookMoves.cs" />
+    <Compile Include="Utilities\CameraUtil\BasicCamera.cs" />
+    <Compile Include="Utilities\CameraUtil\GameCamera.cs" />
+    <Compile Include="Utilities\Effects\AbstractEffect.cs" />
+    <Compile Include="Utilities\Effects\PhongEffect.cs" />
+    <Compile Include="Utilities\GameManager\GameManager.cs" />
+    <Compile Include="Utilities\Helpers.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Utilities\ChessNames.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="GameEngine\Scene\Game1.cs" />
+    <Compile Include="GameEngine\Scene\ActionScene\Components\Checker\RectangleChecker\RectangleChecker.cs" />
+    <Compile Include="GameEngine\Scene\ActionScene\Components\Checker\RectangleChecker\RectangleCheckerFactory.cs" />
+    <Compile Include="Utilities\IControlBlocker.cs" />
+    <Compile Include="Utilities\IControllable.cs" />
+    <Compile Include="Utilities\MenuElements\HotZone.cs" />
+    <Compile Include="Utilities\MenuElements\Label.cs" />
+    <Compile Include="Utilities\MenuElements\Rect.cs" />
+    <Compile Include="Utilities\MenuElements\SlidingRect.cs" />
+    <Compile Include="Utilities\MenuElements\SlidingRectShrinkableTitle.cs" />
+    <Compile Include="Utilities\MenuElements\Textbox.cs" />
+    <Compile Include="Utilities\MenuElements\TextBoxNumeric.cs" />
+    <Compile Include="Utilities\Particles\FireParticleSystem.cs" />
+    <Compile Include="Utilities\Particles\ParticleSettings.cs" />
+    <Compile Include="Utilities\Particles\ParticleSystem.cs" />
+    <Compile Include="Utilities\Particles\ParticleVertex.cs" />
+    <Compile Include="Utilities\Position.cs" />
+    <Compile Include="Utilities\Sprites\Sprite.cs" />
+    <Compile Include="Utilities\TexturesLibrary.cs" />
+    <Compile Include="Utilities\TimeSchemes\AbstractTimeScheme.cs" />
+    <Compile Include="Utilities\TimeSchemes\CountDownTimeScheme.cs" />
+    <Compile Include="Utilities\TimeSchemes\FischerTimeScheme.cs" />
+    <Compile Include="Utilities\TimeSchemes\HourglassTimeScheme.cs" />
+    <Compile Include="Utilities\TimeSchemes\NoTimeScheme.cs" />
+    <Compile Include="Utilities\StringFormatter.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="GameLogic\gameLayout.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Utilities\Game.ico" />
+    <Content Include="Utilities\GameThumbnail.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <NestedContentProject Include="Content\Content.contentproj">
+      <Project>0f290a1b-d341-4ea9-ae3e-6f79886548b5</Project>
+      <Visible>False</Visible>
+    </NestedContentProject>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Xna.Framework.3.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft XNA Framework Redistributable 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="GameEngine\Scene\ActionScene\Components\Checker\ModelledChecker\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\XNA Game Studio\Microsoft.Xna.GameStudio.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

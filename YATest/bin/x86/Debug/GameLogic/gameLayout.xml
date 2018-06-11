@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<layout title="Initial layout">
+  <player name="player1">
+    <piece name="Rook">
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </piece>
+    <piece name="Pawn">
+      <x>0</x>
+      <y>1</y>
+      <z>1</z>
+    </piece>
+    <piece name="Knight">
+      <x>1</x>
+      <y>0</y>
+      <z>0</z>
+    </piece>
+  </player>
+  <player name="player2">
+    <piece name="Rook">
+      <x>0</x>
+      <y>7</y>
+      <z>7</z>
+    </piece>
+    <piece name="Pawn">
+      <x>0</x>
+      <y>6</y>
+      <z>6</z>
+    </piece>
+    <piece name="Knight">
+      <x>1</x>
+      <y>7</y>
+      <z>7</z>
+    </piece>
+  </player>
+</layout>

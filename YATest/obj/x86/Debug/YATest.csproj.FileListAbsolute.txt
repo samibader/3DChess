@@ -1,0 +1,106 @@
+C:\Users\Programmer\Documents\Visual Studio 2008\Projects\YATest\YATest\bin\x86\Debug\YATest.exe
+C:\Users\Programmer\Documents\Visual Studio 2008\Projects\YATest\YATest\bin\x86\Debug\YATest.pdb
+C:\Users\Programmer\Documents\Visual Studio 2008\Projects\YATest\YATest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Programmer\Documents\Visual Studio 2008\Projects\YATest\YATest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Programmer\Documents\Visual Studio 2008\Projects\YATest\YATest\obj\x86\Debug\YATest.exe
+C:\Users\Programmer\Documents\Visual Studio 2008\Projects\YATest\YATest\obj\x86\Debug\YATest.pdb
+C:\Users\Programmer\Documents\Visual Studio 2008\Projects\YATest\YATest\bin\x86\Debug\Content\WhiteQuad.xnb
+C:\Users\Programmer\Documents\Visual Studio 2008\Projects\YATest\YATest\bin\x86\Debug\Content\BlackQuad.xnb
+C:\Users\Programmer\Documents\Visual Studio 2008\Projects\YATest\YATest\bin\x86\Debug\Content\Models\Basic\Bishop.xnb
+C:\Users\Programmer\Documents\Visual Studio 2008\Projects\YATest\YATest\bin\x86\Debug\Content\Models\Basic\King.xnb
+C:\Users\Programmer\Documents\Visual Studio 2008\Projects\YATest\YATest\bin\x86\Debug\Content\Models\Basic\Knight.xnb
+C:\Users\Programmer\Documents\Visual Studio 2008\Projects\YATest\YATest\bin\x86\Debug\Content\Models\Basic\Pawn.xnb
+C:\Users\Programmer\Documents\Visual Studio 2008\Projects\YATest\YATest\bin\x86\Debug\Content\Models\Basic\Queen.xnb
+C:\Users\Programmer\Documents\Visual Studio 2008\Projects\YATest\YATest\bin\x86\Debug\Content\Models\Basic\Rook.xnb
+C:\Users\Programmer\Documents\Visual Studio 2008\Projects\YATest\YATest\bin\x86\Debug\Content\Models\Basic\WhiteTexture.xnb
+C:\Users\Programmer\Documents\Visual Studio 2008\Projects\YATest\YATest\bin\x86\Debug\Content\Models\Basic\WhiteTexture_0.xnb
+C:\Users\Programmer\Documents\Visual Studio 2008\Projects\YATest\YATest\bin\x86\Debug\Content\Models\Basic\Player1Texture.xnb
+C:\Users\Programmer\Documents\Visual Studio 2008\Projects\YATest\YATest\bin\x86\Debug\Content\Models\Basic\Player2Texture.xnb
+C:\Users\Programmer\Documents\Visual Studio 2008\Projects\YATest\YATest\bin\x86\Debug\GameLogic\gameLayout.xml
+C:\Users\Programmer\Documents\Visual Studio 2008\Projects\YATest\YATest\bin\x86\Debug\Content\SelectedQuad.xnb
+C:\Users\Programmer\Documents\Visual Studio 2008\Projects\YATest\YATest\bin\x86\Debug\Content\HighlightedQuad.xnb
+C:\Users\Programmer\Desktop\YATest\YATest\bin\x86\Debug\GameLogic\gameLayout.xml
+C:\Users\Programmer\Desktop\YATest\YATest\bin\x86\Debug\Content\BlackQuad.xnb
+C:\Users\Programmer\Desktop\YATest\YATest\bin\x86\Debug\Content\Models\Basic\WhiteTexture.xnb
+C:\Users\Programmer\Desktop\YATest\YATest\bin\x86\Debug\Content\Models\Basic\Player1Texture.xnb
+C:\Users\Programmer\Desktop\YATest\YATest\bin\x86\Debug\Content\Models\Basic\Player2Texture.xnb
+C:\Users\Programmer\Desktop\YATest\YATest\bin\x86\Debug\Content\WhiteQuad.xnb
+C:\Users\Programmer\Desktop\YATest\YATest\bin\x86\Debug\Content\SelectedQuad.xnb
+C:\Users\Programmer\Desktop\YATest\YATest\bin\x86\Debug\Content\HighlightedQuad.xnb
+C:\Users\Programmer\Desktop\YATest\YATest\bin\x86\Debug\Content\Models\Basic\Bishop.xnb
+C:\Users\Programmer\Desktop\YATest\YATest\bin\x86\Debug\Content\Models\Basic\King.xnb
+C:\Users\Programmer\Desktop\YATest\YATest\bin\x86\Debug\Content\Models\Basic\Knight.xnb
+C:\Users\Programmer\Desktop\YATest\YATest\bin\x86\Debug\Content\Models\Basic\Pawn.xnb
+C:\Users\Programmer\Desktop\YATest\YATest\bin\x86\Debug\Content\Models\Basic\Queen.xnb
+C:\Users\Programmer\Desktop\YATest\YATest\bin\x86\Debug\Content\Models\Basic\Rook.xnb
+C:\Users\Programmer\Desktop\YATest\YATest\bin\x86\Debug\Content\Models\Basic\WhiteTexture_0.xnb
+C:\Users\Programmer\Desktop\YATest\YATest\bin\x86\Debug\YATest.exe
+C:\Users\Programmer\Desktop\YATest\YATest\bin\x86\Debug\YATest.pdb
+C:\Users\Programmer\Desktop\YATest\YATest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Programmer\Desktop\YATest\YATest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Programmer\Desktop\YATest\YATest\obj\x86\Debug\YATest.exe
+C:\Users\Programmer\Desktop\YATest\YATest\obj\x86\Debug\YATest.pdb
+C:\Users\Programmer\Desktop\YATest\YATest\bin\x86\Debug\Content\Black.xnb
+C:\Users\Programmer\Desktop\YATest\YATest\bin\x86\Debug\Content\White.xnb
+Z:\Team1\YATest\YATest\bin\x86\Debug\GameLogic\gameLayout.xml
+Z:\Team1\YATest\YATest\bin\x86\Debug\Content\BlackQuad.xnb
+Z:\Team1\YATest\YATest\bin\x86\Debug\Content\Models\Basic\WhiteTexture.xnb
+Z:\Team1\YATest\YATest\bin\x86\Debug\Content\Models\Basic\Player1Texture.xnb
+Z:\Team1\YATest\YATest\bin\x86\Debug\Content\Models\Basic\Player2Texture.xnb
+Z:\Team1\YATest\YATest\bin\x86\Debug\Content\WhiteQuad.xnb
+Z:\Team1\YATest\YATest\bin\x86\Debug\Content\SelectedQuad.xnb
+Z:\Team1\YATest\YATest\bin\x86\Debug\Content\HighlightedQuad.xnb
+Z:\Team1\YATest\YATest\bin\x86\Debug\Content\Black.xnb
+Z:\Team1\YATest\YATest\bin\x86\Debug\Content\White.xnb
+Z:\Team1\YATest\YATest\bin\x86\Debug\Content\Models\Basic\Bishop.xnb
+Z:\Team1\YATest\YATest\bin\x86\Debug\Content\Models\Basic\King.xnb
+Z:\Team1\YATest\YATest\bin\x86\Debug\Content\Models\Basic\Knight.xnb
+Z:\Team1\YATest\YATest\bin\x86\Debug\Content\Models\Basic\Pawn.xnb
+Z:\Team1\YATest\YATest\bin\x86\Debug\Content\Models\Basic\Queen.xnb
+Z:\Team1\YATest\YATest\bin\x86\Debug\Content\Models\Basic\Rook.xnb
+Z:\Team1\YATest\YATest\bin\x86\Debug\Content\Models\Basic\WhiteTexture_0.xnb
+Z:\Team1\YATest\YATest\bin\x86\Debug\YATest.exe
+Z:\Team1\YATest\YATest\bin\x86\Debug\YATest.pdb
+Z:\Team1\YATest\YATest\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Team1\YATest\YATest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+Z:\Team1\YATest\YATest\obj\x86\Debug\YATest.exe
+Z:\Team1\YATest\YATest\obj\x86\Debug\YATest.pdb
+C:\Users\Programmer\Desktop\YATest - new\YATest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Programmer\Desktop\YATest - new\YATest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Programmer\Desktop\YATest - new\YATest\bin\x86\Debug\GameLogic\gameLayout.xml
+C:\Users\Programmer\Desktop\YATest - new\YATest\bin\x86\Debug\Content\BlackQuad.xnb
+C:\Users\Programmer\Desktop\YATest - new\YATest\bin\x86\Debug\Content\Models\Basic\WhiteTexture.xnb
+C:\Users\Programmer\Desktop\YATest - new\YATest\bin\x86\Debug\Content\Models\Basic\Player1Texture.xnb
+C:\Users\Programmer\Desktop\YATest - new\YATest\bin\x86\Debug\Content\Models\Basic\Player2Texture.xnb
+C:\Users\Programmer\Desktop\YATest - new\YATest\bin\x86\Debug\Content\WhiteQuad.xnb
+C:\Users\Programmer\Desktop\YATest - new\YATest\bin\x86\Debug\Content\SelectedQuad.xnb
+C:\Users\Programmer\Desktop\YATest - new\YATest\bin\x86\Debug\Content\HighlightedQuad.xnb
+C:\Users\Programmer\Desktop\YATest - new\YATest\bin\x86\Debug\Content\White.xnb
+C:\Users\Programmer\Desktop\YATest - new\YATest\bin\x86\Debug\Content\Black.xnb
+C:\Users\Programmer\Desktop\YATest - new\YATest\bin\x86\Debug\Content\AvailableRoute.xnb
+C:\Users\Programmer\Desktop\YATest - new\YATest\bin\x86\Debug\Content\Panels\BoardTex.xnb
+C:\Users\Programmer\Desktop\YATest - new\YATest\bin\x86\Debug\Content\Panels\PiecesTex.xnb
+C:\Users\Programmer\Desktop\YATest - new\YATest\bin\x86\Debug\Content\Models\Basic\Bishop.xnb
+C:\Users\Programmer\Desktop\YATest - new\YATest\bin\x86\Debug\Content\Models\Basic\King.xnb
+C:\Users\Programmer\Desktop\YATest - new\YATest\bin\x86\Debug\Content\Models\Basic\Knight.xnb
+C:\Users\Programmer\Desktop\YATest - new\YATest\bin\x86\Debug\Content\Models\Basic\Pawn.xnb
+C:\Users\Programmer\Desktop\YATest - new\YATest\bin\x86\Debug\Content\Models\Basic\Queen.xnb
+C:\Users\Programmer\Desktop\YATest - new\YATest\bin\x86\Debug\Content\Models\Basic\Rook.xnb
+C:\Users\Programmer\Desktop\YATest - new\YATest\bin\x86\Debug\Content\Models\Basic\WhiteTexture_0.xnb
+C:\Users\Programmer\Desktop\YATest - new\YATest\bin\x86\Debug\YATest.exe
+C:\Users\Programmer\Desktop\YATest - new\YATest\bin\x86\Debug\YATest.pdb
+C:\Users\Programmer\Desktop\YATest - new\YATest\obj\x86\Debug\YATest.exe
+C:\Users\Programmer\Desktop\YATest - new\YATest\obj\x86\Debug\YATest.pdb
+C:\Users\Programmer\Desktop\YATest - new\YATest\bin\x86\Debug\Content\Fonts\InfoFont.xnb
+C:\Users\Programmer\Desktop\YATest - new\YATest\bin\x86\Debug\Content\Panels\CompletePane.xnb
+C:\Users\Programmer\Desktop\YATest - new\YATest\bin\x86\Debug\Content\Panels\SideHandle.xnb
+C:\Users\Programmer\Desktop\YATest - new\YATest\bin\x86\Debug\Content\Panels\CompletePane2.xnb
+C:\Users\Programmer\Desktop\YATest - new\YATest\bin\x86\Debug\Content\Panels\sideHandle2.xnb
+C:\Users\Programmer\Desktop\YATest - new\YATest\bin\x86\Debug\Content\Fonts\InfoFontLarge.xnb
+C:\Users\Programmer\Desktop\YATest - new\YATest\bin\x86\Debug\Content\Fonts\InfoFontSmall.xnb
+C:\Users\Programmer\Desktop\YATest - new\YATest\bin\x86\Debug\Content\Panels\Pause.xnb
+C:\Users\Programmer\Desktop\YATest - new\YATest\bin\x86\Debug\Content\Panels\CompletePane3.xnb
+C:\Users\Programmer\Desktop\YATest - new\YATest\bin\x86\Debug\Content\Panels\SideHandle3.xnb
+C:\Users\Programmer\Desktop\YATest - new\YATest\bin\x86\Debug\Content\Panels\Finish.xnb
+C:\Users\Programmer\Desktop\YATest - new\YATest\bin\x86\Debug\Content\ThreatningQuad.xnb
+C:\Users\Programmer\Desktop\YATest - new\YATest\bin\x86\Debug\Content\MainMenu\MainMenuPic.xnb

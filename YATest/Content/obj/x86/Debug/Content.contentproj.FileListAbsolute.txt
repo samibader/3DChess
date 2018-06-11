@@ -1,0 +1,8 @@
+C:\Users\Programmer\Documents\Visual Studio 2008\Projects\YATest\YATest\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Programmer\Desktop\YATest\YATest\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Team1\YATest\YATest\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Programmer\Desktop\YATest - new\YATest\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Programmer\Desktop\MultiLayerChess\YATest\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Programmer\Desktop\v0\MultiLayerChess - Copy\YATest\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Programmer\Desktop\MultiLayerChess - Copy\YATest\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\Content\obj\x86\Debug\ResolveAssemblyReference.cache

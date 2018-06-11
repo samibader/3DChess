@@ -1,0 +1,216 @@
+C:\Users\Programmer\Desktop\MultiLayerChess\YATest\bin\x86\Debug\GameLogic\gameLayout.xml
+C:\Users\Programmer\Desktop\MultiLayerChess\YATest\bin\x86\Debug\Content\BlackQuad.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess\YATest\bin\x86\Debug\Content\Models\Basic\WhiteTexture.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess\YATest\bin\x86\Debug\Content\Models\Basic\Player1Texture.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess\YATest\bin\x86\Debug\Content\Models\Basic\Player2Texture.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess\YATest\bin\x86\Debug\Content\WhiteQuad.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess\YATest\bin\x86\Debug\Content\SelectedQuad.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess\YATest\bin\x86\Debug\Content\HighlightedQuad.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess\YATest\bin\x86\Debug\Content\White.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess\YATest\bin\x86\Debug\Content\Black.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess\YATest\bin\x86\Debug\Content\AvailableRoute.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess\YATest\bin\x86\Debug\Content\ThreatningQuad.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess\YATest\bin\x86\Debug\Content\Panels\SideHandle.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess\YATest\bin\x86\Debug\Content\Panels\CompletePane.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess\YATest\bin\x86\Debug\Content\Panels\CompletePane2.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess\YATest\bin\x86\Debug\Content\Panels\SideHandle2.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess\YATest\bin\x86\Debug\Content\Panels\Pause.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess\YATest\bin\x86\Debug\Content\Panels\CompletePane3.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess\YATest\bin\x86\Debug\Content\Panels\SideHandle3.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess\YATest\bin\x86\Debug\Content\Panels\BoardTex.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess\YATest\bin\x86\Debug\Content\Panels\PiecesTex.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess\YATest\bin\x86\Debug\Content\Panels\Finish.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess\YATest\bin\x86\Debug\Content\MainMenu\MainMenuPic.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess\YATest\bin\x86\Debug\Content\Models\Basic\Bishop.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess\YATest\bin\x86\Debug\Content\Models\Basic\King.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess\YATest\bin\x86\Debug\Content\Models\Basic\Knight.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess\YATest\bin\x86\Debug\Content\Models\Basic\Pawn.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess\YATest\bin\x86\Debug\Content\Models\Basic\Queen.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess\YATest\bin\x86\Debug\Content\Models\Basic\Rook.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess\YATest\bin\x86\Debug\Content\Fonts\InfoFont.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess\YATest\bin\x86\Debug\Content\Fonts\InfoFontLarge.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess\YATest\bin\x86\Debug\Content\Fonts\InfoFontSmall.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess\YATest\bin\x86\Debug\Content\Models\Basic\WhiteTexture_0.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess\YATest\bin\x86\Debug\YATest.exe
+C:\Users\Programmer\Desktop\MultiLayerChess\YATest\bin\x86\Debug\YATest.pdb
+C:\Users\Programmer\Desktop\MultiLayerChess\YATest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Programmer\Desktop\MultiLayerChess\YATest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Programmer\Desktop\MultiLayerChess\YATest\obj\x86\Debug\YATest.exe
+C:\Users\Programmer\Desktop\MultiLayerChess\YATest\obj\x86\Debug\YATest.pdb
+C:\Users\Programmer\Desktop\MultiLayerChess\YATest\bin\x86\Debug\Content\Effects\Phong.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess\YATest\bin\x86\Debug\Content\Textures\available.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess\YATest\bin\x86\Debug\Content\Textures\gold111.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess\YATest\bin\x86\Debug\Content\Textures\highlighted.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess\YATest\bin\x86\Debug\Content\Textures\selected.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess\YATest\bin\x86\Debug\Content\Textures\sil.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess\YATest\bin\x86\Debug\Content\Textures\Default_bump_normal.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess\YATest\bin\x86\Debug\Content\Textures\Default_color.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess\YATest\bin\x86\Debug\Content\Textures\Default_reflection.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess\YATest\bin\x86\Debug\Content\Textures\sil2.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess\YATest\bin\x86\Debug\Content\ParticleEffect.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess\YATest\bin\x86\Debug\Content\fire.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess\YATest\bin\x86\Debug\Content\Textures\border.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess\YATest\bin\x86\Debug\Content\Fonts\Typing.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess\YATest\bin\x86\Debug\Content\Fonts\TypingSmall.xnb
+C:\Users\Programmer\Desktop\v0\MultiLayerChess - Copy\YATest\bin\x86\Debug\GameLogic\gameLayout.xml
+C:\Users\Programmer\Desktop\v0\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\BlackQuad.xnb
+C:\Users\Programmer\Desktop\v0\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Models\Basic\WhiteTexture.xnb
+C:\Users\Programmer\Desktop\v0\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Models\Basic\Player1Texture.xnb
+C:\Users\Programmer\Desktop\v0\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Models\Basic\Player2Texture.xnb
+C:\Users\Programmer\Desktop\v0\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\WhiteQuad.xnb
+C:\Users\Programmer\Desktop\v0\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\SelectedQuad.xnb
+C:\Users\Programmer\Desktop\v0\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\HighlightedQuad.xnb
+C:\Users\Programmer\Desktop\v0\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\White.xnb
+C:\Users\Programmer\Desktop\v0\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Black.xnb
+C:\Users\Programmer\Desktop\v0\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\AvailableRoute.xnb
+C:\Users\Programmer\Desktop\v0\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\ThreatningQuad.xnb
+C:\Users\Programmer\Desktop\v0\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Panels\SideHandle.xnb
+C:\Users\Programmer\Desktop\v0\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Panels\CompletePane.xnb
+C:\Users\Programmer\Desktop\v0\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Panels\CompletePane2.xnb
+C:\Users\Programmer\Desktop\v0\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Panels\SideHandle2.xnb
+C:\Users\Programmer\Desktop\v0\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Panels\Pause.xnb
+C:\Users\Programmer\Desktop\v0\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Panels\CompletePane3.xnb
+C:\Users\Programmer\Desktop\v0\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Panels\SideHandle3.xnb
+C:\Users\Programmer\Desktop\v0\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Panels\BoardTex.xnb
+C:\Users\Programmer\Desktop\v0\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Panels\PiecesTex.xnb
+C:\Users\Programmer\Desktop\v0\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Panels\Finish.xnb
+C:\Users\Programmer\Desktop\v0\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\MainMenu\MainMenuPic.xnb
+C:\Users\Programmer\Desktop\v0\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Textures\available.xnb
+C:\Users\Programmer\Desktop\v0\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Textures\gold111.xnb
+C:\Users\Programmer\Desktop\v0\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Textures\highlighted.xnb
+C:\Users\Programmer\Desktop\v0\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Textures\selected.xnb
+C:\Users\Programmer\Desktop\v0\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Textures\sil.xnb
+C:\Users\Programmer\Desktop\v0\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Textures\Default_bump_normal.xnb
+C:\Users\Programmer\Desktop\v0\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Textures\Default_color.xnb
+C:\Users\Programmer\Desktop\v0\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Textures\Default_reflection.xnb
+C:\Users\Programmer\Desktop\v0\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Textures\sil2.xnb
+C:\Users\Programmer\Desktop\v0\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\fire.xnb
+C:\Users\Programmer\Desktop\v0\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Textures\border.xnb
+C:\Users\Programmer\Desktop\v0\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Models\Basic\Bishop.xnb
+C:\Users\Programmer\Desktop\v0\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Models\Basic\King.xnb
+C:\Users\Programmer\Desktop\v0\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Models\Basic\Knight.xnb
+C:\Users\Programmer\Desktop\v0\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Models\Basic\Pawn.xnb
+C:\Users\Programmer\Desktop\v0\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Models\Basic\Queen.xnb
+C:\Users\Programmer\Desktop\v0\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Models\Basic\Rook.xnb
+C:\Users\Programmer\Desktop\v0\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Fonts\InfoFont.xnb
+C:\Users\Programmer\Desktop\v0\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Fonts\InfoFontLarge.xnb
+C:\Users\Programmer\Desktop\v0\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Fonts\InfoFontSmall.xnb
+C:\Users\Programmer\Desktop\v0\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Fonts\Typing.xnb
+C:\Users\Programmer\Desktop\v0\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Fonts\TypingSmall.xnb
+C:\Users\Programmer\Desktop\v0\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Effects\Phong.xnb
+C:\Users\Programmer\Desktop\v0\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\ParticleEffect.xnb
+C:\Users\Programmer\Desktop\v0\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Models\Basic\WhiteTexture_0.xnb
+C:\Users\Programmer\Desktop\v0\MultiLayerChess - Copy\YATest\bin\x86\Debug\YATest.exe
+C:\Users\Programmer\Desktop\v0\MultiLayerChess - Copy\YATest\bin\x86\Debug\YATest.pdb
+C:\Users\Programmer\Desktop\v0\MultiLayerChess - Copy\YATest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Programmer\Desktop\v0\MultiLayerChess - Copy\YATest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Programmer\Desktop\v0\MultiLayerChess - Copy\YATest\obj\x86\Debug\YATest.exe
+C:\Users\Programmer\Desktop\v0\MultiLayerChess - Copy\YATest\obj\x86\Debug\YATest.pdb
+C:\Users\Programmer\Desktop\MultiLayerChess - Copy\YATest\bin\x86\Debug\GameLogic\gameLayout.xml
+C:\Users\Programmer\Desktop\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\BlackQuad.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Models\Basic\WhiteTexture.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Models\Basic\Player1Texture.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Models\Basic\Player2Texture.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\WhiteQuad.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\SelectedQuad.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\HighlightedQuad.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\White.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Black.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\AvailableRoute.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\ThreatningQuad.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Panels\SideHandle.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Panels\CompletePane.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Panels\CompletePane2.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Panels\SideHandle2.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Panels\Pause.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Panels\CompletePane3.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Panels\SideHandle3.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Panels\BoardTex.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Panels\PiecesTex.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Panels\Finish.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\MainMenu\MainMenuPic.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Textures\available.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Textures\gold111.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Textures\highlighted.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Textures\selected.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Textures\sil.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Textures\Default_bump_normal.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Textures\Default_color.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Textures\Default_reflection.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Textures\sil2.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\fire.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Textures\border.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Models\Basic\Bishop.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Models\Basic\King.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Models\Basic\Knight.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Models\Basic\Pawn.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Models\Basic\Queen.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Models\Basic\Rook.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Fonts\InfoFont.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Fonts\InfoFontLarge.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Fonts\InfoFontSmall.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Fonts\Typing.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Fonts\TypingSmall.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Effects\Phong.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\ParticleEffect.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Models\Basic\WhiteTexture_0.xnb
+C:\Users\Programmer\Desktop\MultiLayerChess - Copy\YATest\bin\x86\Debug\YATest.exe
+C:\Users\Programmer\Desktop\MultiLayerChess - Copy\YATest\bin\x86\Debug\YATest.pdb
+C:\Users\Programmer\Desktop\MultiLayerChess - Copy\YATest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Programmer\Desktop\MultiLayerChess - Copy\YATest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Programmer\Desktop\MultiLayerChess - Copy\YATest\obj\x86\Debug\YATest.exe
+C:\Users\Programmer\Desktop\MultiLayerChess - Copy\YATest\obj\x86\Debug\YATest.pdb
+C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\GameLogic\gameLayout.xml
+C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\BlackQuad.xnb
+C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Models\Basic\WhiteTexture.xnb
+C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Models\Basic\Player1Texture.xnb
+C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Models\Basic\Player2Texture.xnb
+C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\WhiteQuad.xnb
+C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\SelectedQuad.xnb
+C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\HighlightedQuad.xnb
+C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\White.xnb
+C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Black.xnb
+C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\AvailableRoute.xnb
+C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\ThreatningQuad.xnb
+C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Panels\SideHandle.xnb
+C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Panels\CompletePane.xnb
+C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Panels\CompletePane2.xnb
+C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Panels\SideHandle2.xnb
+C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Panels\Pause.xnb
+C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Panels\CompletePane3.xnb
+C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Panels\SideHandle3.xnb
+C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Panels\BoardTex.xnb
+C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Panels\PiecesTex.xnb
+C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Panels\Finish.xnb
+C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\MainMenu\MainMenuPic.xnb
+C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Textures\available.xnb
+C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Textures\gold111.xnb
+C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Textures\highlighted.xnb
+C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Textures\selected.xnb
+C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Textures\sil.xnb
+C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Textures\Default_bump_normal.xnb
+C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Textures\Default_color.xnb
+C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Textures\Default_reflection.xnb
+C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Textures\sil2.xnb
+C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\fire.xnb
+C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Textures\border.xnb
+C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Models\Basic\Bishop.xnb
+C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Models\Basic\King.xnb
+C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Models\Basic\Knight.xnb
+C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Models\Basic\Pawn.xnb
+C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Models\Basic\Queen.xnb
+C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Models\Basic\Rook.xnb
+C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Fonts\InfoFont.xnb
+C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Fonts\InfoFontLarge.xnb
+C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Fonts\InfoFontSmall.xnb
+C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Fonts\Typing.xnb
+C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Fonts\TypingSmall.xnb
+C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Effects\Phong.xnb
+C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\ParticleEffect.xnb
+C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Models\Basic\WhiteTexture_0.xnb
+C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\YATest.exe
+C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\YATest.pdb
+C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\obj\x86\Debug\YATest.exe
+C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\obj\x86\Debug\YATest.pdb

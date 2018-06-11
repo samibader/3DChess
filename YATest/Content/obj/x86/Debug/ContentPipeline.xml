@@ -1,0 +1,563 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Graphics="Microsoft.Xna.Framework.Graphics" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>BlackQuad.jpg</Source>
+      <Name>BlackQuad</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\BlackQuad.xnb</Output>
+      <Time>2009-12-07T17:16:40-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Basic\WhiteTexture.jpg</Source>
+      <Name>Models\Basic\WhiteTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Models\Basic\WhiteTexture.xnb</Output>
+      <Time>2009-12-05T14:40:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Basic\Player1Texture.jpg</Source>
+      <Name>Models\Basic\Player1Texture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Models\Basic\Player1Texture.xnb</Output>
+      <Time>2009-12-05T17:52:00-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Basic\Player2Texture.jpg</Source>
+      <Name>Models\Basic\Player2Texture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Models\Basic\Player2Texture.xnb</Output>
+      <Time>2009-12-05T17:52:00-08:00</Time>
+    </Item>
+    <Item>
+      <Source>WhiteQuad.jpg</Source>
+      <Name>WhiteQuad</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\WhiteQuad.xnb</Output>
+      <Time>2009-12-07T17:16:24-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SelectedQuad.jpg</Source>
+      <Name>SelectedQuad</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\SelectedQuad.xnb</Output>
+      <Time>2009-12-12T18:01:42-08:00</Time>
+    </Item>
+    <Item>
+      <Source>HighlightedQuad.jpg</Source>
+      <Name>HighlightedQuad</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\HighlightedQuad.xnb</Output>
+      <Time>2009-12-08T19:52:06-08:00</Time>
+    </Item>
+    <Item>
+      <Source>White.jpg</Source>
+      <Name>White</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\White.xnb</Output>
+      <Time>2009-12-17T19:04:00-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Black.jpg</Source>
+      <Name>Black</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Black.xnb</Output>
+      <Time>2009-12-12T14:48:26-08:00</Time>
+    </Item>
+    <Item>
+      <Source>AvailableRoute.jpg</Source>
+      <Name>AvailableRoute</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\AvailableRoute.xnb</Output>
+      <Time>2009-12-12T16:26:54-08:00</Time>
+    </Item>
+    <Item>
+      <Source>ThreatningQuad.jpg</Source>
+      <Name>ThreatningQuad</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\ThreatningQuad.xnb</Output>
+      <Time>2009-12-12T18:01:24-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Panels\SideHandle.png</Source>
+      <Name>Panels\SideHandle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Panels\SideHandle.xnb</Output>
+      <Time>2009-12-29T21:02:34-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Panels\CompletePane.png</Source>
+      <Name>Panels\CompletePane</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Panels\CompletePane.xnb</Output>
+      <Time>2009-12-29T21:19:00-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Panels\CompletePane2.png</Source>
+      <Name>Panels\CompletePane2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Panels\CompletePane2.xnb</Output>
+      <Time>2009-12-30T17:42:10-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Panels\SideHandle2.png</Source>
+      <Name>Panels\SideHandle2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Panels\SideHandle2.xnb</Output>
+      <Time>2009-12-30T17:42:10-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Panels\Pause.png</Source>
+      <Name>Panels\Pause</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Panels\Pause.xnb</Output>
+      <Time>2010-01-05T17:20:28-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Panels\CompletePane3.png</Source>
+      <Name>Panels\CompletePane3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Panels\CompletePane3.xnb</Output>
+      <Time>2010-01-05T19:12:42-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Panels\SideHandle3.png</Source>
+      <Name>Panels\SideHandle3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Panels\SideHandle3.xnb</Output>
+      <Time>2010-01-05T19:12:42-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Panels\BoardTex.png</Source>
+      <Name>Panels\BoardTex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Panels\BoardTex.xnb</Output>
+      <Time>2010-01-05T20:18:04-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Panels\PiecesTex.png</Source>
+      <Name>Panels\PiecesTex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Panels\PiecesTex.xnb</Output>
+      <Time>2010-01-05T20:22:58-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Panels\Finish.png</Source>
+      <Name>Panels\Finish</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Panels\Finish.xnb</Output>
+      <Time>2010-01-07T15:33:38-08:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenu\MainMenuPic.png</Source>
+      <Name>MainMenu\MainMenuPic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\MainMenu\MainMenuPic.xnb</Output>
+      <Time>2010-01-12T21:37:48-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\available.jpg</Source>
+      <Name>Textures\available</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Textures\available.xnb</Output>
+      <Time>2010-02-13T12:35:16-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\gold111.jpg</Source>
+      <Name>Textures\gold111</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Textures\gold111.xnb</Output>
+      <Time>2010-02-13T12:35:16-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\highlighted.jpg</Source>
+      <Name>Textures\highlighted</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Textures\highlighted.xnb</Output>
+      <Time>2010-02-13T12:35:16-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\selected.jpg</Source>
+      <Name>Textures\selected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Textures\selected.xnb</Output>
+      <Time>2010-02-13T12:35:16-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\sil.jpg</Source>
+      <Name>Textures\sil</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Textures\sil.xnb</Output>
+      <Time>2010-02-13T12:35:16-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Default_bump_normal.dds</Source>
+      <Name>Textures\Default_bump_normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Textures\Default_bump_normal.xnb</Output>
+      <Time>2010-02-13T12:35:16-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Default_color.dds</Source>
+      <Name>Textures\Default_color</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Textures\Default_color.xnb</Output>
+      <Time>2010-02-13T12:35:16-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Default_reflection.dds</Source>
+      <Name>Textures\Default_reflection</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Textures\Default_reflection.xnb</Output>
+      <Time>2010-02-13T12:35:16-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\sil2.jpg</Source>
+      <Name>Textures\sil2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Textures\sil2.xnb</Output>
+      <Time>2010-02-13T12:35:22-08:00</Time>
+    </Item>
+    <Item>
+      <Source>fire.png</Source>
+      <Name>fire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\fire.xnb</Output>
+      <Time>2010-02-13T12:39:44-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\border.jpg</Source>
+      <Name>Textures\border</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Textures\border.xnb</Output>
+      <Time>2010-02-13T12:53:50-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Basic\Bishop.FBX</Source>
+      <Name>Models\Basic\Bishop</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Models\Basic\Bishop.xnb</Output>
+      <Time>2009-12-05T14:35:24-08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Basic\Bishop_0.xml</Key>
+        <Value>2010-03-10T16:55:43.6449222-08:00</Value>
+      </Dependency>
+      <Request>C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Models\Basic\WhiteTexture_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Basic\King.FBX</Source>
+      <Name>Models\Basic\King</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Models\Basic\King.xnb</Output>
+      <Time>2009-12-05T14:35:24-08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Basic\King_0.xml</Key>
+        <Value>2010-03-10T16:55:44.0039222-08:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\Basic\Knight.FBX</Source>
+      <Name>Models\Basic\Knight</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Models\Basic\Knight.xnb</Output>
+      <Time>2009-12-05T14:35:24-08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Basic\Knight_0.xml</Key>
+        <Value>2010-03-10T16:55:44.9509222-08:00</Value>
+      </Dependency>
+      <Request>C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Models\Basic\WhiteTexture_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Basic\Pawn.FBX</Source>
+      <Name>Models\Basic\Pawn</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Models\Basic\Pawn.xnb</Output>
+      <Time>2009-12-05T14:35:24-08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Basic\Pawn_0.xml</Key>
+        <Value>2010-03-10T16:55:45.7329222-08:00</Value>
+      </Dependency>
+      <Request>C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Models\Basic\WhiteTexture_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Basic\Queen.FBX</Source>
+      <Name>Models\Basic\Queen</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Models\Basic\Queen.xnb</Output>
+      <Time>2009-12-05T14:35:24-08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Basic\Queen_0.xml</Key>
+        <Value>2010-03-10T16:55:46.2889222-08:00</Value>
+      </Dependency>
+      <Request>C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Models\Basic\WhiteTexture_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Basic\Rook.FBX</Source>
+      <Name>Models\Basic\Rook</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Models\Basic\Rook.xnb</Output>
+      <Time>2009-12-05T14:35:24-08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Basic\Rook_0.xml</Key>
+        <Value>2010-03-10T16:55:47.1039222-08:00</Value>
+      </Dependency>
+      <Request>C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Models\Basic\WhiteTexture_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Fonts\InfoFont.spritefont</Source>
+      <Name>Fonts\InfoFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Fonts\InfoFont.xnb</Output>
+      <Time>2009-12-30T20:00:36-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\InfoFontLarge.spritefont</Source>
+      <Name>Fonts\InfoFontLarge</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Fonts\InfoFontLarge.xnb</Output>
+      <Time>2009-12-30T19:59:52-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\InfoFontSmall.spritefont</Source>
+      <Name>Fonts\InfoFontSmall</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Fonts\InfoFontSmall.xnb</Output>
+      <Time>2009-12-31T13:31:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Typing.spritefont</Source>
+      <Name>Fonts\Typing</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Fonts\Typing.xnb</Output>
+      <Time>2010-02-18T17:15:08-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\TypingSmall.spritefont</Source>
+      <Name>Fonts\TypingSmall</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Fonts\TypingSmall.xnb</Output>
+      <Time>2010-02-18T17:15:08-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\Phong.fx</Source>
+      <Name>Effects\Phong</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Effects\Phong.xnb</Output>
+      <Time>2010-02-13T11:32:02-08:00</Time>
+    </Item>
+    <Item>
+      <Source>ParticleEffect.fx</Source>
+      <Name>ParticleEffect</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\ParticleEffect.xnb</Output>
+      <Time>2010-02-13T12:39:24-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Basic\Bishop.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Basic\Bishop_0.xml</Output>
+      <Time>2009-12-05T14:35:24-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Basic\WhiteTexture.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\Models\Basic\WhiteTexture_0.xnb</Output>
+      <Time>2009-12-05T14:40:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Basic\King.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Basic\King_0.xml</Output>
+      <Time>2009-12-05T14:35:24-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Basic\Knight.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Basic\Knight_0.xml</Output>
+      <Time>2009-12-05T14:35:24-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Basic\Pawn.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Basic\Pawn_0.xml</Output>
+      <Time>2009-12-05T14:35:24-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Basic\Queen.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Basic\Queen_0.xml</Output>
+      <Time>2009-12-05T14:35:24-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Basic\Rook.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Basic\Rook_0.xml</Output>
+      <Time>2009-12-05T14:35:24-08:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Programmer\Desktop\Last Modification\MultiLayerChess - Copy\YATest\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T00:16:14-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T00:16:06-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T00:16:16-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T00:16:26-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T00:16:12-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T00:16:06-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2009-10-21T19:59:19.5321115-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
